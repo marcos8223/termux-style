@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author : Aditya Shakya
-## Email  : adi1090x@gmail.com
+## Author : marcos8223
+## Email  : marcos822391@gmail.com
 
 #colors
 R='\033[1;31m'
