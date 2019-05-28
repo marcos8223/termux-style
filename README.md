@@ -18,14 +18,6 @@ $ chmod +x setup
 $ ./setup
 And... Done, termux-style successfully installed in your termux. Here are some previews...
 
-preview1
-
-preview2
-
-preview3
-
-preview4
-
 How to use:
 
 After successfully installed, type 'termux-style' to open the program.
